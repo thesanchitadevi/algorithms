@@ -29,3 +29,8 @@ int main()
     cout<<endl;
     return(0);
 }
+
+//Size of array: 5
+//Unsorted Array : 9 3 8 5 1
+
+//Sorted Array : 1 3 5 8 9
