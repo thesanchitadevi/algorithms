@@ -25,3 +25,7 @@ int main() {
       cout << arr[i] << " ";
    cout << endl;
 }
+
+//Enter the number of elements: 5
+//Enter elements: 99 66 77 22 11
+//Array after Sorting: 11 22 66 77 99
