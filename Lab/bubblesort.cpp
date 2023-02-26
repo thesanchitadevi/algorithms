@@ -27,3 +27,8 @@ int main ()
     }
     return 0;
 }
+
+//Enter size of array : 5
+//Input list : 44 22 88 11 55
+
+//Sorted Element List : 11 22 44 55 88 
